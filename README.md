@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt Timmons
-- 🎓 I'm a recent graduate of Tech Elevator
+- 🎓 I'm a recent graduate of Tech Elevator as a Full Stack Java Web Developer
 - 👀 I’m interested in cyber/information security
 - 🌱 I’m currently learning Python
 
